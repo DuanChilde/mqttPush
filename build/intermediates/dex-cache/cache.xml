@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\myPush\MqttAndroidClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f0179d135b5ec5a37a240a61a743b88e3cc46ffe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\1bfdf72ce1c9a48c3f56a79956ea0e6f30a6c6d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11963bed272e5a4c67f7f064608daecb8d7249ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_e5b2616b269786c2648a4c1f7cd4bb0c5b1c5cea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Program Files (x86)\Android\android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_4c82c7dd6bc36e7e822e0c71a871b44fa2ea3b49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d2f9b97d36c2e427252256b69ad5afcb040f2b23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36d7714d20e47cd72475625325fe2c05857bb5bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.1.0\89d827ffa47c241f2627421ef1d6c7a8c207a341\org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.client.mqttv3-1.1.0_4eda94e031c488412e62496c5457099f8495172f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0fcdcc446aa8ee673ea1ab4cb25e92cc48468c9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee1d42cfafb5a36c9f4fd4ced4ffa6449e935af1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4b406f18616d7046819fd44a804063bf63a5d671\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df0a01a5c642e28680cc85e2485bbbcf753abac4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\1e292208cf5f2e089d35a0b850493c554122de6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_320667638026a23c084d0aa4ef7ecf7c161becbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e8feec7096e3ad7979330f876d063fab2ddd5cc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_625c9fc3a2d84f7ef9c38b8282278ecd8db590aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\caadca970a1afa38f70c37943de94d97ac0d2843\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d183ae331fb188ebedf5101f3a59f8588ffc459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.1.1\6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5\org.eclipse.paho.android.service-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.android.service-1.1.1_c4e0951eef2d98537ace8e675358688ea38c2e27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\24759e815aa73d2b95f5230eb87327b4a6c99808\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04b1fe83419e777fd207011fb06862adc7226b2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myPush\MqttAndroidClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b47901ea2d3e4fca222d7f6065b196d8593f478">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_43b994ba9b7baf538b0a356d3e865697658ac910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\bdd687f557affc6c13fb48b8b6ee99a1bc474c8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97a5472b921e0f067aef6c0e67d7c2ab4ff1880f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\c44f17ffc2fcbb5fcb2e70b3cf1bba42f2f02f27\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\myPush\MqttAndroidClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b94350ac41955023c7009533d7f767a97d3f4187\classes.dex" />
+    </item>
+
+</items>
